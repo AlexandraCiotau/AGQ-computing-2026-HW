@@ -10,3 +10,8 @@ git pull
 ```
 
 Now you should be able to see the new week in that folder.
+
+# commits
+git add .
+git commit -m "partial implementation" 
+git push 
